@@ -1,5 +1,5 @@
 # Electricity-Consumption
-Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns-Using-Tableau
+Plugging into the Future An Exploration of Electricity Consumption Patterns Using Tableau
 📊 Plugging into the Future is a data analytics and visualization project that examines electricity consumption patterns across Indian states for the years 2019–2020 using Tableau.
 
 📁 The project utilizes structured electricity consumption data to perform data preprocessing, trend analysis, and interactive visualization.
